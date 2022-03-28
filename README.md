@@ -26,6 +26,8 @@ Codes in Python.
 
 <br>
 
+To look at the Phrase Bank, go <a href="https://github.com/Backpaul97/Corpora/blob/main/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F%202_%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D1%81%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F.7z"> there </a>.
+
 <h2> Not in the folder: </h2>
 
 
